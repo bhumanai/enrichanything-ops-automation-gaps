@@ -1,0 +1,115 @@
+{
+  "kind": "market",
+  "slug": "accounting-firms-hiring-bookkeepers-no-automation",
+  "title": "Accounting firms hiring bookkeepers without automation tooling",
+  "summary": "A public list of smaller accounting firms where hiring activity suggests back-office process pressure and little visible automation.",
+  "audience": "AI automation consultants, operations freelancers, SMB workflow agencies",
+  "ctaLabel": "Open this search in EnrichAnything",
+  "ctaNote": "This is strongest when the outreach angle is operational strain, not generic AI interest.",
+  "ctaPrompt": "Find accounting firms with 10 to 50 employees in the US that are hiring bookkeepers or admin staff in the last 60 days and do not show visible automation tooling, then explain the likely workflow bottleneck.",
+  "methodology": "This list combines firm size, recent hiring, and visible software or tooling gaps. It is meant to surface a credible operating pattern, not make a claim about every accounting firm in the market.",
+  "analysisTitle": "What the data suggests",
+  "analysisParagraphs": [
+    "What makes this slice interesting is that the signal is operational, not aspirational. When a smaller accounting firm is repeatedly hiring bookkeepers, payroll support, or admin staff while showing little evidence of workflow tooling, it usually means recurring process load is still being absorbed with headcount.",
+    "That does not prove the firm is shopping for automation today, but it does create a stronger outreach angle than generic AI messaging. The combination of active back-office hiring and a thin tooling footprint points to specific workflow pressure in intake, reconciliation, payroll prep, and client onboarding."
+  ],
+  "analysisTakeaways": [
+    "Repeated admin hiring is a better proxy for process pain than broad industry targeting.",
+    "A missing automation footprint matters more when it appears alongside active hiring.",
+    "The strongest outreach leads with a concrete workflow bottleneck, not general AI positioning."
+  ],
+  "articleSections": [
+    {
+      "title": "What makes this a better wedge than generic AI positioning",
+      "paragraphs": [
+        "Small accounting firms hear vague AI claims constantly, and most of those messages are easy to ignore. This page becomes useful when it reframes the target from 'accountants interested in automation' to 'firms showing direct evidence of back-office strain.' That shift is what makes the article and the underlying list more defensible.",
+        "Hiring bookkeepers, payroll support, or operations coordinators does not guarantee budget, but it does reveal where the organization is absorbing load. Once that pattern appears alongside a sparse tooling footprint, the conversation can move from abstract automation to specific pressure points such as reconciliation, document intake, client onboarding, and payroll prep."
+      ],
+      "bullets": [
+        "The signal is process pressure, not generic innovation appetite.",
+        "Repeated admin hiring narrows the list to firms dealing with real operational drag.",
+        "Specific workflow relief lands better than broad AI transformation language."
+      ]
+    },
+    {
+      "title": "How to interpret the sample responsibly",
+      "paragraphs": [
+        "A public sample like this should not be read as a census of the accounting market. Some firms use tools that do not leave obvious public fingerprints, and some may be hiring for growth rather than relief. The value is in directional intelligence: a tighter map of firms where manual work appears to be growing faster than systems maturity.",
+        "That is still highly valuable for service businesses. The practical use case is not to automate every row immediately; it is to shortlist firms where the outreach can be grounded in a believable operational hypothesis and then qualify the specifics from public sources or a first call."
+      ],
+      "bullets": [
+        "Not every low-tooling firm is a buyer right now.",
+        "Some firms will hide real software usage behind private workflows or service vendors.",
+        "The best use is prioritization, not blind-volume outreach."
+      ]
+    }
+  ],
+  "signals": [
+    "US accounting firm footprint",
+    "10 to 50 employees",
+    "Bookkeeper or admin hiring in last 60 days",
+    "No visible automation tooling",
+    "Workflow bottleneck reasoning"
+  ],
+  "relatedSlugs": [
+    "shopify-germany-meta-no-tiktok",
+    "series-a-saas-hiring-sdr-no-sequencing"
+  ],
+  "reportSlug": "accounting-automation-gap",
+  "siteUrl": "https://www.enrichanything.com/markets/accounting-firms-hiring-bookkeepers-no-automation",
+  "reportUrl": "https://www.enrichanything.com/reports/accounting-automation-gap",
+  "status": "live",
+  "live": true,
+  "dataSource": "collected_sample",
+  "dataNote": "Published from a collected source sample based on the latest published update from March 22, 2026.",
+  "rowCount": 50,
+  "collectionTarget": 20,
+  "lastSuccessAt": "2026-03-22T17:17:10.837+00:00",
+  "lastSuccessLabel": "March 22, 2026",
+  "lastStatus": "paused",
+  "statsSource": "page_content",
+  "stats": [
+    {
+      "value": "94",
+      "label": "matching firms",
+      "detail": "Current tracked sample",
+      "note": ""
+    },
+    {
+      "value": "61%",
+      "label": "repeat admin hiring",
+      "detail": "Strong process-pain proxy",
+      "note": ""
+    }
+  ],
+  "sampleRows": [
+    {
+      "company": "Harker Mellinger, LLC",
+      "location": "US",
+      "signal": "Accounting firm hiring bookkeeper; no visible automation tooling mentioned",
+      "gap": "No visible automation tooling mentioned",
+      "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
+    },
+    {
+      "company": "Brubaker CPA",
+      "location": "US",
+      "signal": "Accounting firm hiring bookkeeper/payroll clerk; paperless but no advanced automation; QuickBooks focus",
+      "gap": "No advanced automation",
+      "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
+    },
+    {
+      "company": "Penrod and George, CPA's",
+      "location": "US",
+      "signal": "Accounting firm hiring accounting staff for payroll/bookkeeping; QuickBooks mentioned, no automation tooling",
+      "gap": "No automation tooling",
+      "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
+    },
+    {
+      "company": "Coleman, Horton & Company LLP",
+      "location": "US",
+      "signal": "Accounting firm hiring full-service bookkeeper; QuickBooks proficiency required, no automation visible",
+      "gap": "No visible workflow automation detected",
+      "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
+    }
+  ]
+}

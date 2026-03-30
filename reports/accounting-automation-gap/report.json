@@ -1,0 +1,83 @@
+{
+  "kind": "report",
+  "slug": "accounting-automation-gap",
+  "title": "Small accounting firms still hire around process pain before they automate it",
+  "summary": "A public research note on how smaller accounting firms often add back-office headcount before showing visible automation tools.",
+  "contextLine": "Updated from EnrichAnything market scans · live snapshot from March 22, 2026",
+  "marketSlug": "accounting-firms-hiring-bookkeepers-no-automation",
+  "marketUrl": "https://www.enrichanything.com/markets/accounting-firms-hiring-bookkeepers-no-automation",
+  "siteUrl": "https://www.enrichanything.com/reports/accounting-automation-gap",
+  "status": "live",
+  "live": true,
+  "dataSource": "collected_sample",
+  "dataNote": "Built from the latest published EnrichAnything market scan.",
+  "rowCount": 50,
+  "lastSuccessAt": "2026-03-22T17:17:10.837+00:00",
+  "lastSuccessLabel": "March 22, 2026",
+  "lastStatus": "paused",
+  "citationText": "In EnrichAnything's latest scan of small accounting firms hiring back-office staff, 78% mention only light tooling or no visible automation cues.",
+  "stats": [
+    {
+      "value": "74%",
+      "label": "explicit back-office hiring",
+      "detail": "",
+      "note": "Rows mentioning bookkeeper, admin, payroll, or staff-accounting demand"
+    },
+    {
+      "value": "78%",
+      "label": "light or missing automation cues",
+      "detail": "",
+      "note": "Rows pointing to QuickBooks-level tooling or no visible automation layer"
+    }
+  ],
+  "chartRows": [
+    {
+      "value": "74",
+      "label": "Bookkeeper or admin hiring",
+      "detail": "",
+      "note": "Observed directly in the current live sample"
+    },
+    {
+      "value": "78",
+      "label": "Low-automation clue present",
+      "detail": "",
+      "note": "Rows mentioning QuickBooks, paperless workflows, or no automation tooling"
+    },
+    {
+      "value": "30",
+      "label": "QuickBooks mention",
+      "detail": "",
+      "note": "Useful proxy for light tooling rather than a full automation stack"
+    }
+  ],
+  "sampleRows": [
+    {
+      "company": "Harker Mellinger, LLC",
+      "location": "US",
+      "signal": "Accounting firm hiring bookkeeper; no visible automation tooling mentioned",
+      "gap": "No visible automation tooling mentioned",
+      "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
+    },
+    {
+      "company": "Brubaker CPA",
+      "location": "US",
+      "signal": "Accounting firm hiring bookkeeper/payroll clerk; paperless but no advanced automation; QuickBooks focus",
+      "gap": "No advanced automation",
+      "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
+    },
+    {
+      "company": "Penrod and George, CPA's",
+      "location": "US",
+      "signal": "Accounting firm hiring accounting staff for payroll/bookkeeping; QuickBooks mentioned, no automation tooling",
+      "gap": "No automation tooling",
+      "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
+    },
+    {
+      "company": "Coleman, Horton & Company LLP",
+      "location": "US",
+      "signal": "Accounting firm hiring full-service bookkeeper; QuickBooks proficiency required, no automation visible",
+      "gap": "No visible workflow automation detected",
+      "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
+    }
+  ]
+}

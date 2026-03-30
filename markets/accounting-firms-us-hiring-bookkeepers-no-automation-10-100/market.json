@@ -1,0 +1,110 @@
+{
+  "kind": "market",
+  "slug": "accounting-firms-us-hiring-bookkeepers-no-automation-10-100",
+  "title": "Accounting firms in the US hiring bookkeepers without automation tooling (10 to 100 employees)",
+  "summary": "A public list of US accounting firms in a slightly broader size band where hiring activity still points to manual back-office process pressure.",
+  "audience": "AI automation consultants, operations freelancers, SMB workflow agencies",
+  "ctaLabel": "Open this search in EnrichAnything",
+  "ctaNote": "This is strongest when the outreach angle is operational strain, not generic AI interest.",
+  "ctaPrompt": "Build a broad, source-backed collection from public firm websites, careers pages, ATS listings, and job boards to find accounting firms in the US with roughly 10 to 100 employees that are hiring bookkeepers, payroll support, or admin staff and do not show visible automation tooling. Return company name, website, location, hiring signal, workflow gap, and why-now notes.",
+  "methodology": "This list combines the US accounting-firm footprints, a 10 to 100 employees band, recent hiring, and visible automation gaps. It is designed to show a credible operating slice rather than to claim full market coverage.",
+  "analysisTitle": "What the data suggests",
+  "analysisParagraphs": [
+    "The core signal is operational, not aspirational. When smaller accounting firms are hiring bookkeepers, payroll support, or admin staff while showing little visible automation, the likely story is that recurring back-office process load is still being absorbed by people.",
+    "That creates a much better commercial wedge than generic AI positioning. The outreach can anchor on reconciliation, payroll prep, document handling, and client onboarding pressure instead of abstract transformation language."
+  ],
+  "analysisTakeaways": [
+    "Repeated admin hiring is a better proxy for process pain than broad vertical targeting.",
+    "A missing automation footprint matters more when it appears alongside active hiring.",
+    "The strongest pitch is workflow relief, not generic AI messaging."
+  ],
+  "articleSections": [
+    {
+      "title": "Why this is stronger than a generic accounting list",
+      "paragraphs": [
+        "An ordinary accounting directory gives you a market. It does not give you timing. This segment is more useful because it layers hiring on top of the firm profile and then looks for a thin automation footprint. That combination suggests the firm is dealing with present process load rather than merely fitting a broad vertical.",
+        "The difference matters in outreach. A consultant or agency can talk about where the work is piling up instead of trying to create urgency from scratch."
+      ],
+      "bullets": [
+        "Hiring makes the timing more legible than a broad vertical filter.",
+        "The missing-tooling angle keeps the market commercially specific.",
+        "The best outreach focuses on relieving visible workflow strain."
+      ]
+    },
+    {
+      "title": "How to use the list in practice",
+      "paragraphs": [
+        "A note like this is best used as a framing asset. It explains why the underlying list matters and what kind of opportunity it represents. That keeps the source list from feeling like a generic spreadsheet and turns it into a market claim that is easier to act on.",
+        "The most effective workflow is still list first, manual qualification second, outreach third. The public note compresses the market reasoning. The list is where execution starts."
+      ],
+      "bullets": [
+        "Use the report to explain the segment and the list to execute on it.",
+        "Qualify the highest-value rows before outreach.",
+        "Lead with the workflow bottleneck, not the technology category."
+      ]
+    }
+  ],
+  "signals": [
+    "the US accounting-firm footprint",
+    "10 to 100 employees",
+    "Bookkeeper or admin hiring in recent public listings",
+    "No visible automation tooling",
+    "Workflow bottleneck reasoning"
+  ],
+  "relatedSlugs": [
+    "accounting-firms-hiring-bookkeepers-no-automation",
+    "accounting-firms-canada-hiring-bookkeepers-no-automation",
+    "law-firms-canada-hiring-admin-no-automation"
+  ],
+  "reportSlug": "us-accounting-automation-gap-10-100",
+  "siteUrl": "https://www.enrichanything.com/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100",
+  "reportUrl": "https://www.enrichanything.com/reports/us-accounting-automation-gap-10-100",
+  "status": "live",
+  "live": true,
+  "dataSource": "collected_sample",
+  "dataNote": "Published from a collected source sample based on the latest published update from March 23, 2026.",
+  "rowCount": 28,
+  "collectionTarget": 20,
+  "lastSuccessAt": "2026-03-23T17:52:27.39+00:00",
+  "lastSuccessLabel": "March 23, 2026",
+  "lastStatus": "paused",
+  "statsSource": "page_content",
+  "stats": [
+    {
+      "value": "20+",
+      "label": "matching firms",
+      "detail": "Published source sample",
+      "note": ""
+    }
+  ],
+  "sampleRows": [
+    {
+      "company": "Pierce Firm, PLLC",
+      "location": "US",
+      "signal": "Hiring Staff Accountant focused on payroll; small growing CPA firm; uses basic payroll software, no automation tooling mentioned",
+      "gap": "No automation tooling mentioned",
+      "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+    },
+    {
+      "company": "Harker Mellinger, LLC",
+      "location": "US",
+      "signal": "Hiring Bookkeeper with payroll experience; small firm; QuickBooks mentioned, no advanced automation",
+      "gap": "No advanced automation",
+      "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+    },
+    {
+      "company": "Penrod and George, CPAs",
+      "location": "US",
+      "signal": "Hiring Accounting Staff for payroll and bookkeeping; Administrative Coordinator; small firm using QuickBooks, no automation",
+      "gap": "No visible workflow automation detected",
+      "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+    },
+    {
+      "company": "Brubaker CPA",
+      "location": "US",
+      "signal": "Hiring Bookkeeper/Payroll Clerk; paperless but QuickBooks-focused, no automation tooling visible",
+      "gap": "No automation tooling visible",
+      "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+    }
+  ]
+}

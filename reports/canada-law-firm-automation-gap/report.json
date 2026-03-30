@@ -1,0 +1,83 @@
+{
+  "kind": "report",
+  "slug": "canada-law-firm-automation-gap",
+  "title": "Canadian law firms still hire around intake and admin workload before they automate it",
+  "summary": "A public research note on how smaller Canadian law firms often add admin headcount before showing visible workflow automation.",
+  "contextLine": "Updated from EnrichAnything market scans · live snapshot from March 23, 2026",
+  "marketSlug": "law-firms-canada-hiring-admin-no-automation",
+  "marketUrl": "https://www.enrichanything.com/markets/law-firms-canada-hiring-admin-no-automation",
+  "siteUrl": "https://www.enrichanything.com/reports/canada-law-firm-automation-gap",
+  "status": "live",
+  "live": true,
+  "dataSource": "collected_sample",
+  "dataNote": "Built from the latest published EnrichAnything market scan.",
+  "rowCount": 21,
+  "lastSuccessAt": "2026-03-23T17:56:37.612+00:00",
+  "lastSuccessLabel": "March 23, 2026",
+  "lastStatus": "paused",
+  "citationText": "Based on EnrichAnything's latest scan of matching firms, 100% already include an explicit gap signal and 95% include a timing note.",
+  "stats": [
+    {
+      "value": "100%",
+      "label": "rows with explicit gap signal",
+      "detail": "",
+      "note": "Useful for turning the list into a clear angle"
+    },
+    {
+      "value": "95%",
+      "label": "rows with timing signal",
+      "detail": "",
+      "note": "Rows that already explain why the window matters now"
+    }
+  ],
+  "chartRows": [
+    {
+      "value": "100",
+      "label": "Rows with signal evidence",
+      "detail": "",
+      "note": "How many rows already carry an explicit signal note"
+    },
+    {
+      "value": "100",
+      "label": "Rows with gap note",
+      "detail": "",
+      "note": "How many rows already expose the missing-tool or missing-motion angle"
+    },
+    {
+      "value": "95",
+      "label": "Rows with why-now note",
+      "detail": "",
+      "note": "How many rows already explain timing in the live sample"
+    }
+  ],
+  "sampleRows": [
+    {
+      "company": "Paquette & Associates Lawyers",
+      "location": "Canada",
+      "signal": "Hiring office administrator (admin staff) for workflow improvement in small firm; manual processes implied by role",
+      "gap": "No visible workflow automation detected",
+      "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+    },
+    {
+      "company": "Rigler Law",
+      "location": "Canada",
+      "signal": "Hiring receptionist (admin), paralegals, legal assistants in growing small firm (~15 staff); manual office duties listed",
+      "gap": "No visible workflow automation detected",
+      "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+    },
+    {
+      "company": "Pihl Law Corp.",
+      "location": "Canada",
+      "signal": "Hiring litigation legal assistant (paralegal-like) in boutique firm (~18 employees); basic doc prep implies low automation",
+      "gap": "No visible workflow automation detected",
+      "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+    },
+    {
+      "company": "TurnpenneyMilne LLP",
+      "location": "Canada",
+      "signal": "Boutique firm (~20 lawyers) hiring; supports admin/paralegal needs though lawyers specified; manual evident",
+      "gap": "No visible workflow automation detected",
+      "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "kind": "report",
+  "slug": "canada-accounting-automation-gap",
+  "title": "Canadian accounting firms still hire around process pain before they automate it",
+  "summary": "A public research note on how canadian accounting firms often add back-office headcount before showing visible automation tools.",
+  "contextLine": "Updated from EnrichAnything market scans · live snapshot from March 23, 2026",
+  "marketSlug": "accounting-firms-canada-hiring-bookkeepers-no-automation",
+  "marketUrl": "https://www.enrichanything.com/markets/accounting-firms-canada-hiring-bookkeepers-no-automation",
+  "siteUrl": "https://www.enrichanything.com/reports/canada-accounting-automation-gap",
+  "status": "live",
+  "live": true,
+  "dataSource": "collected_sample",
+  "dataNote": "Built from the latest published EnrichAnything market scan.",
+  "rowCount": 34,
+  "lastSuccessAt": "2026-03-23T16:45:29.541+00:00",
+  "lastSuccessLabel": "March 23, 2026",
+  "lastStatus": "paused",
+  "citationText": "Based on EnrichAnything's latest scan of matching firms, 100% already include an explicit gap signal and 68% include a timing note.",
+  "stats": [
+    {
+      "value": "100%",
+      "label": "rows with explicit gap signal",
+      "detail": "",
+      "note": "Useful for turning the list into a clear angle"
+    },
+    {
+      "value": "68%",
+      "label": "rows with timing signal",
+      "detail": "",
+      "note": "Rows that already explain why the window matters now"
+    }
+  ],
+  "chartRows": [
+    {
+      "value": "100",
+      "label": "Rows with signal evidence",
+      "detail": "",
+      "note": "How many rows already carry an explicit signal note"
+    },
+    {
+      "value": "100",
+      "label": "Rows with gap note",
+      "detail": "",
+      "note": "How many rows already expose the missing-tool or missing-motion angle"
+    },
+    {
+      "value": "68",
+      "label": "Rows with why-now note",
+      "detail": "",
+      "note": "How many rows already explain timing in the live sample"
+    }
+  ],
+  "sampleRows": [
+    {
+      "company": "On-Core Bookkeeping",
+      "location": "Canada",
+      "signal": "Hiring senior bookkeeper (payroll, GST); self-describes as small firm; no automation tooling mentioned",
+      "gap": "No automation tooling mentioned",
+      "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+    },
+    {
+      "company": "OnTrack Accounting & Bookkeeping",
+      "location": "Canada",
+      "signal": "Seeks bookkeepers/payroll experience; self-describes as small firm; no automation tooling",
+      "gap": "No automation tooling",
+      "whyNow": ""
+    },
+    {
+      "company": "Optinum Professional Corporation",
+      "location": "Canada",
+      "signal": "Hiring staff accountant for bookkeeping/payroll; growing small team; mentions QuickBooks/Zoho but no advanced automation",
+      "gap": "No advanced automation",
+      "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+    },
+    {
+      "company": "Switzer & Co.",
+      "location": "Canada",
+      "signal": "Lists bookkeeper and payroll specialist positions; trusted approachable firm implying small-mid size; no automation",
+      "gap": "No visible workflow automation detected",
+      "whyNow": ""
+    }
+  ]
+}

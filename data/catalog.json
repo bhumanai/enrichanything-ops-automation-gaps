@@ -1,0 +1,795 @@
+{
+  "generatedAt": "2026-03-30T11:26:31.907Z",
+  "title": "Firms Still Solving Ops Work by Hiring More Staff",
+  "summary": "Lists of accounting and law firms that look overloaded and still light on automation.",
+  "topics": [
+    "automation",
+    "operations",
+    "market-intelligence",
+    "lead-generation",
+    "accounting",
+    "legal-tech",
+    "workflow-automation"
+  ],
+  "markets": [
+    {
+      "kind": "market",
+      "slug": "accounting-firms-hiring-bookkeepers-no-automation",
+      "title": "Accounting firms hiring bookkeepers without automation tooling",
+      "summary": "A public list of smaller accounting firms where hiring activity suggests back-office process pressure and little visible automation.",
+      "audience": "AI automation consultants, operations freelancers, SMB workflow agencies",
+      "ctaLabel": "Open this search in EnrichAnything",
+      "ctaNote": "This is strongest when the outreach angle is operational strain, not generic AI interest.",
+      "ctaPrompt": "Find accounting firms with 10 to 50 employees in the US that are hiring bookkeepers or admin staff in the last 60 days and do not show visible automation tooling, then explain the likely workflow bottleneck.",
+      "methodology": "This list combines firm size, recent hiring, and visible software or tooling gaps. It is meant to surface a credible operating pattern, not make a claim about every accounting firm in the market.",
+      "analysisTitle": "What the data suggests",
+      "analysisParagraphs": [
+        "What makes this slice interesting is that the signal is operational, not aspirational. When a smaller accounting firm is repeatedly hiring bookkeepers, payroll support, or admin staff while showing little evidence of workflow tooling, it usually means recurring process load is still being absorbed with headcount.",
+        "That does not prove the firm is shopping for automation today, but it does create a stronger outreach angle than generic AI messaging. The combination of active back-office hiring and a thin tooling footprint points to specific workflow pressure in intake, reconciliation, payroll prep, and client onboarding."
+      ],
+      "analysisTakeaways": [
+        "Repeated admin hiring is a better proxy for process pain than broad industry targeting.",
+        "A missing automation footprint matters more when it appears alongside active hiring.",
+        "The strongest outreach leads with a concrete workflow bottleneck, not general AI positioning."
+      ],
+      "articleSections": [
+        {
+          "title": "What makes this a better wedge than generic AI positioning",
+          "paragraphs": [
+            "Small accounting firms hear vague AI claims constantly, and most of those messages are easy to ignore. This page becomes useful when it reframes the target from 'accountants interested in automation' to 'firms showing direct evidence of back-office strain.' That shift is what makes the article and the underlying list more defensible.",
+            "Hiring bookkeepers, payroll support, or operations coordinators does not guarantee budget, but it does reveal where the organization is absorbing load. Once that pattern appears alongside a sparse tooling footprint, the conversation can move from abstract automation to specific pressure points such as reconciliation, document intake, client onboarding, and payroll prep."
+          ],
+          "bullets": [
+            "The signal is process pressure, not generic innovation appetite.",
+            "Repeated admin hiring narrows the list to firms dealing with real operational drag.",
+            "Specific workflow relief lands better than broad AI transformation language."
+          ]
+        },
+        {
+          "title": "How to interpret the sample responsibly",
+          "paragraphs": [
+            "A public sample like this should not be read as a census of the accounting market. Some firms use tools that do not leave obvious public fingerprints, and some may be hiring for growth rather than relief. The value is in directional intelligence: a tighter map of firms where manual work appears to be growing faster than systems maturity.",
+            "That is still highly valuable for service businesses. The practical use case is not to automate every row immediately; it is to shortlist firms where the outreach can be grounded in a believable operational hypothesis and then qualify the specifics from public sources or a first call."
+          ],
+          "bullets": [
+            "Not every low-tooling firm is a buyer right now.",
+            "Some firms will hide real software usage behind private workflows or service vendors.",
+            "The best use is prioritization, not blind-volume outreach."
+          ]
+        }
+      ],
+      "signals": [
+        "US accounting firm footprint",
+        "10 to 50 employees",
+        "Bookkeeper or admin hiring in last 60 days",
+        "No visible automation tooling",
+        "Workflow bottleneck reasoning"
+      ],
+      "relatedSlugs": [
+        "shopify-germany-meta-no-tiktok",
+        "series-a-saas-hiring-sdr-no-sequencing"
+      ],
+      "reportSlug": "accounting-automation-gap",
+      "siteUrl": "https://www.enrichanything.com/markets/accounting-firms-hiring-bookkeepers-no-automation",
+      "reportUrl": "https://www.enrichanything.com/reports/accounting-automation-gap",
+      "status": "live",
+      "live": true,
+      "dataSource": "collected_sample",
+      "dataNote": "Published from a collected source sample based on the latest published update from March 22, 2026.",
+      "rowCount": 50,
+      "collectionTarget": 20,
+      "lastSuccessAt": "2026-03-22T17:17:10.837+00:00",
+      "lastSuccessLabel": "March 22, 2026",
+      "lastStatus": "paused",
+      "statsSource": "page_content",
+      "stats": [
+        {
+          "value": "94",
+          "label": "matching firms",
+          "detail": "Current tracked sample",
+          "note": ""
+        },
+        {
+          "value": "61%",
+          "label": "repeat admin hiring",
+          "detail": "Strong process-pain proxy",
+          "note": ""
+        }
+      ],
+      "sampleRows": [
+        {
+          "company": "Harker Mellinger, LLC",
+          "location": "US",
+          "signal": "Accounting firm hiring bookkeeper; no visible automation tooling mentioned",
+          "gap": "No visible automation tooling mentioned",
+          "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
+        },
+        {
+          "company": "Brubaker CPA",
+          "location": "US",
+          "signal": "Accounting firm hiring bookkeeper/payroll clerk; paperless but no advanced automation; QuickBooks focus",
+          "gap": "No advanced automation",
+          "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
+        },
+        {
+          "company": "Penrod and George, CPA's",
+          "location": "US",
+          "signal": "Accounting firm hiring accounting staff for payroll/bookkeeping; QuickBooks mentioned, no automation tooling",
+          "gap": "No automation tooling",
+          "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
+        },
+        {
+          "company": "Coleman, Horton & Company LLP",
+          "location": "US",
+          "signal": "Accounting firm hiring full-service bookkeeper; QuickBooks proficiency required, no automation visible",
+          "gap": "No visible workflow automation detected",
+          "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
+        }
+      ]
+    },
+    {
+      "kind": "market",
+      "slug": "accounting-firms-canada-hiring-bookkeepers-no-automation",
+      "title": "Accounting firms in Canada hiring bookkeepers without automation tooling",
+      "summary": "A public list of smaller Canadian accounting firms where hiring activity suggests back-office process pressure and little visible automation.",
+      "audience": "AI automation consultants, operations freelancers, SMB workflow agencies",
+      "ctaLabel": "Open this search in EnrichAnything",
+      "ctaNote": "This is strongest when the outreach angle is operational strain, not generic AI interest.",
+      "ctaPrompt": "Build a broad, source-backed collection from public firm websites, careers pages, ATS listings, and job boards to find accounting firms in Canada with roughly 10 to 50 employees that are hiring bookkeepers, payroll support, or admin staff and do not show visible automation tooling. Return company name, website, location, hiring signal, workflow gap, and why-now notes.",
+      "methodology": "This list combines Canada accounting-firm footprints, a 10 to 50 employees band, recent hiring, and visible automation gaps. It is designed to show a credible operating slice rather than to claim full market coverage.",
+      "analysisTitle": "What the data suggests",
+      "analysisParagraphs": [
+        "The core signal is operational, not aspirational. When smaller accounting firms are hiring bookkeepers, payroll support, or admin staff while showing little visible automation, the likely story is that recurring back-office process load is still being absorbed by people.",
+        "That creates a much better commercial wedge than generic AI positioning. The outreach can anchor on reconciliation, payroll prep, document handling, and client onboarding pressure instead of abstract transformation language."
+      ],
+      "analysisTakeaways": [
+        "Repeated admin hiring is a better proxy for process pain than broad vertical targeting.",
+        "A missing automation footprint matters more when it appears alongside active hiring.",
+        "The strongest pitch is workflow relief, not generic AI messaging."
+      ],
+      "articleSections": [
+        {
+          "title": "Why this is stronger than a generic accounting list",
+          "paragraphs": [
+            "An ordinary accounting directory gives you a market. It does not give you timing. This segment is more useful because it layers hiring on top of the firm profile and then looks for a thin automation footprint. That combination suggests the firm is dealing with present process load rather than merely fitting a broad vertical.",
+            "The difference matters in outreach. A consultant or agency can talk about where the work is piling up instead of trying to create urgency from scratch."
+          ],
+          "bullets": [
+            "Hiring makes the timing more legible than a broad vertical filter.",
+            "The missing-tooling angle keeps the market commercially specific.",
+            "The best outreach focuses on relieving visible workflow strain."
+          ]
+        },
+        {
+          "title": "How to use the list in practice",
+          "paragraphs": [
+            "A note like this is best used as a framing asset. It explains why the underlying list matters and what kind of opportunity it represents. That keeps the source list from feeling like a generic spreadsheet and turns it into a market claim that is easier to act on.",
+            "The most effective workflow is still list first, manual qualification second, outreach third. The public note compresses the market reasoning. The list is where execution starts."
+          ],
+          "bullets": [
+            "Use the report to explain the segment and the list to execute on it.",
+            "Qualify the highest-value rows before outreach.",
+            "Lead with the workflow bottleneck, not the technology category."
+          ]
+        }
+      ],
+      "signals": [
+        "Canada accounting-firm footprint",
+        "10 to 50 employees",
+        "Bookkeeper or admin hiring in recent public listings",
+        "No visible automation tooling",
+        "Workflow bottleneck reasoning"
+      ],
+      "relatedSlugs": [
+        "accounting-firms-hiring-bookkeepers-no-automation",
+        "accounting-firms-us-hiring-bookkeepers-no-automation-10-100",
+        "law-firms-canada-hiring-admin-no-automation"
+      ],
+      "reportSlug": "canada-accounting-automation-gap",
+      "siteUrl": "https://www.enrichanything.com/markets/accounting-firms-canada-hiring-bookkeepers-no-automation",
+      "reportUrl": "https://www.enrichanything.com/reports/canada-accounting-automation-gap",
+      "status": "live",
+      "live": true,
+      "dataSource": "collected_sample",
+      "dataNote": "Published from a collected source sample based on the latest published update from March 23, 2026.",
+      "rowCount": 34,
+      "collectionTarget": 20,
+      "lastSuccessAt": "2026-03-23T16:45:29.541+00:00",
+      "lastSuccessLabel": "March 23, 2026",
+      "lastStatus": "paused",
+      "statsSource": "page_content",
+      "stats": [
+        {
+          "value": "20+",
+          "label": "matching firms",
+          "detail": "Published source sample",
+          "note": ""
+        }
+      ],
+      "sampleRows": [
+        {
+          "company": "On-Core Bookkeeping",
+          "location": "Canada",
+          "signal": "Hiring senior bookkeeper (payroll, GST); self-describes as small firm; no automation tooling mentioned",
+          "gap": "No automation tooling mentioned",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        },
+        {
+          "company": "OnTrack Accounting & Bookkeeping",
+          "location": "Canada",
+          "signal": "Seeks bookkeepers/payroll experience; self-describes as small firm; no automation tooling",
+          "gap": "No automation tooling",
+          "whyNow": ""
+        },
+        {
+          "company": "Optinum Professional Corporation",
+          "location": "Canada",
+          "signal": "Hiring staff accountant for bookkeeping/payroll; growing small team; mentions QuickBooks/Zoho but no advanced automation",
+          "gap": "No advanced automation",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        },
+        {
+          "company": "Switzer & Co.",
+          "location": "Canada",
+          "signal": "Lists bookkeeper and payroll specialist positions; trusted approachable firm implying small-mid size; no automation",
+          "gap": "No visible workflow automation detected",
+          "whyNow": ""
+        }
+      ]
+    },
+    {
+      "kind": "market",
+      "slug": "accounting-firms-us-hiring-bookkeepers-no-automation-10-100",
+      "title": "Accounting firms in the US hiring bookkeepers without automation tooling (10 to 100 employees)",
+      "summary": "A public list of US accounting firms in a slightly broader size band where hiring activity still points to manual back-office process pressure.",
+      "audience": "AI automation consultants, operations freelancers, SMB workflow agencies",
+      "ctaLabel": "Open this search in EnrichAnything",
+      "ctaNote": "This is strongest when the outreach angle is operational strain, not generic AI interest.",
+      "ctaPrompt": "Build a broad, source-backed collection from public firm websites, careers pages, ATS listings, and job boards to find accounting firms in the US with roughly 10 to 100 employees that are hiring bookkeepers, payroll support, or admin staff and do not show visible automation tooling. Return company name, website, location, hiring signal, workflow gap, and why-now notes.",
+      "methodology": "This list combines the US accounting-firm footprints, a 10 to 100 employees band, recent hiring, and visible automation gaps. It is designed to show a credible operating slice rather than to claim full market coverage.",
+      "analysisTitle": "What the data suggests",
+      "analysisParagraphs": [
+        "The core signal is operational, not aspirational. When smaller accounting firms are hiring bookkeepers, payroll support, or admin staff while showing little visible automation, the likely story is that recurring back-office process load is still being absorbed by people.",
+        "That creates a much better commercial wedge than generic AI positioning. The outreach can anchor on reconciliation, payroll prep, document handling, and client onboarding pressure instead of abstract transformation language."
+      ],
+      "analysisTakeaways": [
+        "Repeated admin hiring is a better proxy for process pain than broad vertical targeting.",
+        "A missing automation footprint matters more when it appears alongside active hiring.",
+        "The strongest pitch is workflow relief, not generic AI messaging."
+      ],
+      "articleSections": [
+        {
+          "title": "Why this is stronger than a generic accounting list",
+          "paragraphs": [
+            "An ordinary accounting directory gives you a market. It does not give you timing. This segment is more useful because it layers hiring on top of the firm profile and then looks for a thin automation footprint. That combination suggests the firm is dealing with present process load rather than merely fitting a broad vertical.",
+            "The difference matters in outreach. A consultant or agency can talk about where the work is piling up instead of trying to create urgency from scratch."
+          ],
+          "bullets": [
+            "Hiring makes the timing more legible than a broad vertical filter.",
+            "The missing-tooling angle keeps the market commercially specific.",
+            "The best outreach focuses on relieving visible workflow strain."
+          ]
+        },
+        {
+          "title": "How to use the list in practice",
+          "paragraphs": [
+            "A note like this is best used as a framing asset. It explains why the underlying list matters and what kind of opportunity it represents. That keeps the source list from feeling like a generic spreadsheet and turns it into a market claim that is easier to act on.",
+            "The most effective workflow is still list first, manual qualification second, outreach third. The public note compresses the market reasoning. The list is where execution starts."
+          ],
+          "bullets": [
+            "Use the report to explain the segment and the list to execute on it.",
+            "Qualify the highest-value rows before outreach.",
+            "Lead with the workflow bottleneck, not the technology category."
+          ]
+        }
+      ],
+      "signals": [
+        "the US accounting-firm footprint",
+        "10 to 100 employees",
+        "Bookkeeper or admin hiring in recent public listings",
+        "No visible automation tooling",
+        "Workflow bottleneck reasoning"
+      ],
+      "relatedSlugs": [
+        "accounting-firms-hiring-bookkeepers-no-automation",
+        "accounting-firms-canada-hiring-bookkeepers-no-automation",
+        "law-firms-canada-hiring-admin-no-automation"
+      ],
+      "reportSlug": "us-accounting-automation-gap-10-100",
+      "siteUrl": "https://www.enrichanything.com/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100",
+      "reportUrl": "https://www.enrichanything.com/reports/us-accounting-automation-gap-10-100",
+      "status": "live",
+      "live": true,
+      "dataSource": "collected_sample",
+      "dataNote": "Published from a collected source sample based on the latest published update from March 23, 2026.",
+      "rowCount": 28,
+      "collectionTarget": 20,
+      "lastSuccessAt": "2026-03-23T17:52:27.39+00:00",
+      "lastSuccessLabel": "March 23, 2026",
+      "lastStatus": "paused",
+      "statsSource": "page_content",
+      "stats": [
+        {
+          "value": "20+",
+          "label": "matching firms",
+          "detail": "Published source sample",
+          "note": ""
+        }
+      ],
+      "sampleRows": [
+        {
+          "company": "Pierce Firm, PLLC",
+          "location": "US",
+          "signal": "Hiring Staff Accountant focused on payroll; small growing CPA firm; uses basic payroll software, no automation tooling mentioned",
+          "gap": "No automation tooling mentioned",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        },
+        {
+          "company": "Harker Mellinger, LLC",
+          "location": "US",
+          "signal": "Hiring Bookkeeper with payroll experience; small firm; QuickBooks mentioned, no advanced automation",
+          "gap": "No advanced automation",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        },
+        {
+          "company": "Penrod and George, CPAs",
+          "location": "US",
+          "signal": "Hiring Accounting Staff for payroll and bookkeeping; Administrative Coordinator; small firm using QuickBooks, no automation",
+          "gap": "No visible workflow automation detected",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        },
+        {
+          "company": "Brubaker CPA",
+          "location": "US",
+          "signal": "Hiring Bookkeeper/Payroll Clerk; paperless but QuickBooks-focused, no automation tooling visible",
+          "gap": "No automation tooling visible",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        }
+      ]
+    },
+    {
+      "kind": "market",
+      "slug": "law-firms-canada-hiring-admin-no-automation",
+      "title": "Law firms in Canada hiring admin staff without automation tooling",
+      "summary": "A public list of smaller Canadian law firms where hiring activity suggests intake and admin pressure with little visible automation.",
+      "audience": "Legal ops consultants, AI automation consultants, SMB workflow agencies",
+      "ctaLabel": "Open this search in EnrichAnything",
+      "ctaNote": "This is strongest when the outreach angle is intake and workflow pressure, not generic legal AI.",
+      "ctaPrompt": "Find law firms in Canada with roughly 10 to 50 employees that are hiring admin staff, intake coordinators, or paralegals while showing little visible workflow automation. Return source-backed rows with company name, website, location, hiring signal, workflow gap, and why-now notes.",
+      "methodology": "This list combines Canada law-firm footprints, a 10 to 50 employees band, recent admin or intake hiring, and little visible workflow automation. It is meant to show a credible operating pattern rather than a census of legal firms.",
+      "analysisTitle": "What the data suggests",
+      "analysisParagraphs": [
+        "The useful signal here is operational strain. When a smaller law firm is hiring admin staff, intake coordinators, or paralegals while showing little visible workflow tooling, it usually points to process load being absorbed by people rather than systems.",
+        "That makes the list more commercially useful than a generic legal directory. The outreach can lead with intake throughput, document handling, and client-service workflow friction instead of an abstract automation pitch."
+      ],
+      "analysisTakeaways": [
+        "Hiring is a better signal of workflow pressure than broad vertical targeting.",
+        "The legal angle is strongest around intake and admin work, not generic innovation appetite.",
+        "This list is most useful for operators selling process relief, not vague AI transformation."
+      ],
+      "articleSections": [
+        {
+          "title": "What makes this a real operating signal",
+          "paragraphs": [
+            "Smaller firms rarely advertise process pain directly. They do, however, publish roles that reveal where the workload is building. Admin, intake, and paralegal hiring can act as a practical signal that client flow and document handling are still being managed with more headcount than systems leverage.",
+            "That makes the segment easier to work with commercially. The problem is concrete, the workflow is legible, and the pitch can point to a visible bottleneck instead of hand-waving about future productivity."
+          ],
+          "bullets": [
+            "Public hiring is one of the few visible proxies for operational pressure.",
+            "The signal gets stronger when the tooling footprint still looks thin.",
+            "Use this list to frame a workflow bottleneck, not a general software sale."
+          ]
+        },
+        {
+          "title": "How a consultant would use the note",
+          "paragraphs": [
+            "A useful public note does not replace qualification. It gives the operator a defensible market statement and a representative sample to work from. That is exactly how this page should be used: as context for a list that already narrows the market to firms where the intake or admin burden is likely current.",
+            "In practice, that means the note helps explain why the list exists and why the timing matters. The real workflow still runs through manual review on the highest-priority rows before outreach begins."
+          ],
+          "bullets": [
+            "Use the article to justify the segment and the list to execute on it.",
+            "Validate a handful of top rows before outreach.",
+            "Lead with concrete workflow relief instead of a general legal-tech message."
+          ]
+        }
+      ],
+      "signals": [
+        "Canada law-firm footprint",
+        "10 to 50 employees",
+        "Admin, intake, or paralegal hiring signal",
+        "Little visible workflow automation",
+        "Why-now note tied to process pressure"
+      ],
+      "relatedSlugs": [
+        "accounting-firms-canada-hiring-bookkeepers-no-automation",
+        "accounting-firms-hiring-bookkeepers-no-automation",
+        "accounting-firms-us-hiring-bookkeepers-no-automation-10-100"
+      ],
+      "reportSlug": "canada-law-firm-automation-gap",
+      "siteUrl": "https://www.enrichanything.com/markets/law-firms-canada-hiring-admin-no-automation",
+      "reportUrl": "https://www.enrichanything.com/reports/canada-law-firm-automation-gap",
+      "status": "live",
+      "live": true,
+      "dataSource": "collected_sample",
+      "dataNote": "Published from a collected source sample based on the latest published update from March 23, 2026.",
+      "rowCount": 21,
+      "collectionTarget": 20,
+      "lastSuccessAt": "2026-03-23T17:56:37.612+00:00",
+      "lastSuccessLabel": "March 23, 2026",
+      "lastStatus": "paused",
+      "statsSource": "page_content",
+      "stats": [
+        {
+          "value": "20+",
+          "label": "matching firms",
+          "detail": "Published source sample",
+          "note": ""
+        }
+      ],
+      "sampleRows": [
+        {
+          "company": "Paquette & Associates Lawyers",
+          "location": "Canada",
+          "signal": "Hiring office administrator (admin staff) for workflow improvement in small firm; manual processes implied by role",
+          "gap": "No visible workflow automation detected",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        },
+        {
+          "company": "Rigler Law",
+          "location": "Canada",
+          "signal": "Hiring receptionist (admin), paralegals, legal assistants in growing small firm (~15 staff); manual office duties listed",
+          "gap": "No visible workflow automation detected",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        },
+        {
+          "company": "Pihl Law Corp.",
+          "location": "Canada",
+          "signal": "Hiring litigation legal assistant (paralegal-like) in boutique firm (~18 employees); basic doc prep implies low automation",
+          "gap": "No visible workflow automation detected",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        },
+        {
+          "company": "TurnpenneyMilne LLP",
+          "location": "Canada",
+          "signal": "Boutique firm (~20 lawyers) hiring; supports admin/paralegal needs though lawyers specified; manual evident",
+          "gap": "No visible workflow automation detected",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        }
+      ]
+    }
+  ],
+  "reports": [
+    {
+      "kind": "report",
+      "slug": "canada-accounting-automation-gap",
+      "title": "Canadian accounting firms still hire around process pain before they automate it",
+      "summary": "A public research note on how canadian accounting firms often add back-office headcount before showing visible automation tools.",
+      "contextLine": "Updated from EnrichAnything market scans · live snapshot from March 23, 2026",
+      "marketSlug": "accounting-firms-canada-hiring-bookkeepers-no-automation",
+      "marketUrl": "https://www.enrichanything.com/markets/accounting-firms-canada-hiring-bookkeepers-no-automation",
+      "siteUrl": "https://www.enrichanything.com/reports/canada-accounting-automation-gap",
+      "status": "live",
+      "live": true,
+      "dataSource": "collected_sample",
+      "dataNote": "Built from the latest published EnrichAnything market scan.",
+      "rowCount": 34,
+      "lastSuccessAt": "2026-03-23T16:45:29.541+00:00",
+      "lastSuccessLabel": "March 23, 2026",
+      "lastStatus": "paused",
+      "citationText": "Based on EnrichAnything's latest scan of matching firms, 100% already include an explicit gap signal and 68% include a timing note.",
+      "stats": [
+        {
+          "value": "100%",
+          "label": "rows with explicit gap signal",
+          "detail": "",
+          "note": "Useful for turning the list into a clear angle"
+        },
+        {
+          "value": "68%",
+          "label": "rows with timing signal",
+          "detail": "",
+          "note": "Rows that already explain why the window matters now"
+        }
+      ],
+      "chartRows": [
+        {
+          "value": "100",
+          "label": "Rows with signal evidence",
+          "detail": "",
+          "note": "How many rows already carry an explicit signal note"
+        },
+        {
+          "value": "100",
+          "label": "Rows with gap note",
+          "detail": "",
+          "note": "How many rows already expose the missing-tool or missing-motion angle"
+        },
+        {
+          "value": "68",
+          "label": "Rows with why-now note",
+          "detail": "",
+          "note": "How many rows already explain timing in the live sample"
+        }
+      ],
+      "sampleRows": [
+        {
+          "company": "On-Core Bookkeeping",
+          "location": "Canada",
+          "signal": "Hiring senior bookkeeper (payroll, GST); self-describes as small firm; no automation tooling mentioned",
+          "gap": "No automation tooling mentioned",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        },
+        {
+          "company": "OnTrack Accounting & Bookkeeping",
+          "location": "Canada",
+          "signal": "Seeks bookkeepers/payroll experience; self-describes as small firm; no automation tooling",
+          "gap": "No automation tooling",
+          "whyNow": ""
+        },
+        {
+          "company": "Optinum Professional Corporation",
+          "location": "Canada",
+          "signal": "Hiring staff accountant for bookkeeping/payroll; growing small team; mentions QuickBooks/Zoho but no advanced automation",
+          "gap": "No advanced automation",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        },
+        {
+          "company": "Switzer & Co.",
+          "location": "Canada",
+          "signal": "Lists bookkeeper and payroll specialist positions; trusted approachable firm implying small-mid size; no automation",
+          "gap": "No visible workflow automation detected",
+          "whyNow": ""
+        }
+      ]
+    },
+    {
+      "kind": "report",
+      "slug": "canada-law-firm-automation-gap",
+      "title": "Canadian law firms still hire around intake and admin workload before they automate it",
+      "summary": "A public research note on how smaller Canadian law firms often add admin headcount before showing visible workflow automation.",
+      "contextLine": "Updated from EnrichAnything market scans · live snapshot from March 23, 2026",
+      "marketSlug": "law-firms-canada-hiring-admin-no-automation",
+      "marketUrl": "https://www.enrichanything.com/markets/law-firms-canada-hiring-admin-no-automation",
+      "siteUrl": "https://www.enrichanything.com/reports/canada-law-firm-automation-gap",
+      "status": "live",
+      "live": true,
+      "dataSource": "collected_sample",
+      "dataNote": "Built from the latest published EnrichAnything market scan.",
+      "rowCount": 21,
+      "lastSuccessAt": "2026-03-23T17:56:37.612+00:00",
+      "lastSuccessLabel": "March 23, 2026",
+      "lastStatus": "paused",
+      "citationText": "Based on EnrichAnything's latest scan of matching firms, 100% already include an explicit gap signal and 95% include a timing note.",
+      "stats": [
+        {
+          "value": "100%",
+          "label": "rows with explicit gap signal",
+          "detail": "",
+          "note": "Useful for turning the list into a clear angle"
+        },
+        {
+          "value": "95%",
+          "label": "rows with timing signal",
+          "detail": "",
+          "note": "Rows that already explain why the window matters now"
+        }
+      ],
+      "chartRows": [
+        {
+          "value": "100",
+          "label": "Rows with signal evidence",
+          "detail": "",
+          "note": "How many rows already carry an explicit signal note"
+        },
+        {
+          "value": "100",
+          "label": "Rows with gap note",
+          "detail": "",
+          "note": "How many rows already expose the missing-tool or missing-motion angle"
+        },
+        {
+          "value": "95",
+          "label": "Rows with why-now note",
+          "detail": "",
+          "note": "How many rows already explain timing in the live sample"
+        }
+      ],
+      "sampleRows": [
+        {
+          "company": "Paquette & Associates Lawyers",
+          "location": "Canada",
+          "signal": "Hiring office administrator (admin staff) for workflow improvement in small firm; manual processes implied by role",
+          "gap": "No visible workflow automation detected",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        },
+        {
+          "company": "Rigler Law",
+          "location": "Canada",
+          "signal": "Hiring receptionist (admin), paralegals, legal assistants in growing small firm (~15 staff); manual office duties listed",
+          "gap": "No visible workflow automation detected",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        },
+        {
+          "company": "Pihl Law Corp.",
+          "location": "Canada",
+          "signal": "Hiring litigation legal assistant (paralegal-like) in boutique firm (~18 employees); basic doc prep implies low automation",
+          "gap": "No visible workflow automation detected",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        },
+        {
+          "company": "TurnpenneyMilne LLP",
+          "location": "Canada",
+          "signal": "Boutique firm (~20 lawyers) hiring; supports admin/paralegal needs though lawyers specified; manual evident",
+          "gap": "No visible workflow automation detected",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        }
+      ]
+    },
+    {
+      "kind": "report",
+      "slug": "accounting-automation-gap",
+      "title": "Small accounting firms still hire around process pain before they automate it",
+      "summary": "A public research note on how smaller accounting firms often add back-office headcount before showing visible automation tools.",
+      "contextLine": "Updated from EnrichAnything market scans · live snapshot from March 22, 2026",
+      "marketSlug": "accounting-firms-hiring-bookkeepers-no-automation",
+      "marketUrl": "https://www.enrichanything.com/markets/accounting-firms-hiring-bookkeepers-no-automation",
+      "siteUrl": "https://www.enrichanything.com/reports/accounting-automation-gap",
+      "status": "live",
+      "live": true,
+      "dataSource": "collected_sample",
+      "dataNote": "Built from the latest published EnrichAnything market scan.",
+      "rowCount": 50,
+      "lastSuccessAt": "2026-03-22T17:17:10.837+00:00",
+      "lastSuccessLabel": "March 22, 2026",
+      "lastStatus": "paused",
+      "citationText": "In EnrichAnything's latest scan of small accounting firms hiring back-office staff, 78% mention only light tooling or no visible automation cues.",
+      "stats": [
+        {
+          "value": "74%",
+          "label": "explicit back-office hiring",
+          "detail": "",
+          "note": "Rows mentioning bookkeeper, admin, payroll, or staff-accounting demand"
+        },
+        {
+          "value": "78%",
+          "label": "light or missing automation cues",
+          "detail": "",
+          "note": "Rows pointing to QuickBooks-level tooling or no visible automation layer"
+        }
+      ],
+      "chartRows": [
+        {
+          "value": "74",
+          "label": "Bookkeeper or admin hiring",
+          "detail": "",
+          "note": "Observed directly in the current live sample"
+        },
+        {
+          "value": "78",
+          "label": "Low-automation clue present",
+          "detail": "",
+          "note": "Rows mentioning QuickBooks, paperless workflows, or no automation tooling"
+        },
+        {
+          "value": "30",
+          "label": "QuickBooks mention",
+          "detail": "",
+          "note": "Useful proxy for light tooling rather than a full automation stack"
+        }
+      ],
+      "sampleRows": [
+        {
+          "company": "Harker Mellinger, LLC",
+          "location": "US",
+          "signal": "Accounting firm hiring bookkeeper; no visible automation tooling mentioned",
+          "gap": "No visible automation tooling mentioned",
+          "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
+        },
+        {
+          "company": "Brubaker CPA",
+          "location": "US",
+          "signal": "Accounting firm hiring bookkeeper/payroll clerk; paperless but no advanced automation; QuickBooks focus",
+          "gap": "No advanced automation",
+          "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
+        },
+        {
+          "company": "Penrod and George, CPA's",
+          "location": "US",
+          "signal": "Accounting firm hiring accounting staff for payroll/bookkeeping; QuickBooks mentioned, no automation tooling",
+          "gap": "No automation tooling",
+          "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
+        },
+        {
+          "company": "Coleman, Horton & Company LLP",
+          "location": "US",
+          "signal": "Accounting firm hiring full-service bookkeeper; QuickBooks proficiency required, no automation visible",
+          "gap": "No visible workflow automation detected",
+          "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
+        }
+      ]
+    },
+    {
+      "kind": "report",
+      "slug": "us-accounting-automation-gap-10-100",
+      "title": "US accounting firms still hire around process pain before they automate it",
+      "summary": "A public research note on how us accounting firms often add back-office headcount before showing visible automation tools.",
+      "contextLine": "Updated from EnrichAnything market scans · live snapshot from March 23, 2026",
+      "marketSlug": "accounting-firms-us-hiring-bookkeepers-no-automation-10-100",
+      "marketUrl": "https://www.enrichanything.com/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100",
+      "siteUrl": "https://www.enrichanything.com/reports/us-accounting-automation-gap-10-100",
+      "status": "live",
+      "live": true,
+      "dataSource": "collected_sample",
+      "dataNote": "Built from the latest published EnrichAnything market scan.",
+      "rowCount": 28,
+      "lastSuccessAt": "2026-03-23T17:52:27.39+00:00",
+      "lastSuccessLabel": "March 23, 2026",
+      "lastStatus": "paused",
+      "citationText": "Based on EnrichAnything's latest scan of matching firms, 100% already include an explicit gap signal and 79% include a timing note.",
+      "stats": [
+        {
+          "value": "100%",
+          "label": "rows with explicit gap signal",
+          "detail": "",
+          "note": "Useful for turning the list into a clear angle"
+        },
+        {
+          "value": "79%",
+          "label": "rows with timing signal",
+          "detail": "",
+          "note": "Rows that already explain why the window matters now"
+        }
+      ],
+      "chartRows": [
+        {
+          "value": "100",
+          "label": "Rows with signal evidence",
+          "detail": "",
+          "note": "How many rows already carry an explicit signal note"
+        },
+        {
+          "value": "100",
+          "label": "Rows with gap note",
+          "detail": "",
+          "note": "How many rows already expose the missing-tool or missing-motion angle"
+        },
+        {
+          "value": "79",
+          "label": "Rows with why-now note",
+          "detail": "",
+          "note": "How many rows already explain timing in the live sample"
+        }
+      ],
+      "sampleRows": [
+        {
+          "company": "Pierce Firm, PLLC",
+          "location": "US",
+          "signal": "Hiring Staff Accountant focused on payroll; small growing CPA firm; uses basic payroll software, no automation tooling mentioned",
+          "gap": "No automation tooling mentioned",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        },
+        {
+          "company": "Harker Mellinger, LLC",
+          "location": "US",
+          "signal": "Hiring Bookkeeper with payroll experience; small firm; QuickBooks mentioned, no advanced automation",
+          "gap": "No advanced automation",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        },
+        {
+          "company": "Penrod and George, CPAs",
+          "location": "US",
+          "signal": "Hiring Accounting Staff for payroll and bookkeeping; Administrative Coordinator; small firm using QuickBooks, no automation",
+          "gap": "No visible workflow automation detected",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        },
+        {
+          "company": "Brubaker CPA",
+          "location": "US",
+          "signal": "Hiring Bookkeeper/Payroll Clerk; paperless but QuickBooks-focused, no automation tooling visible",
+          "gap": "No automation tooling visible",
+          "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
+        }
+      ]
+    }
+  ]
+}
