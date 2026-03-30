@@ -79,9 +79,5 @@
       "gap": "No visible workflow automation detected",
       "whyNow": ""
     }
-  ],
-  "repoReadmePath": "reports/canada-accounting-automation-gap/README.md",
-  "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/reports/canada-accounting-automation-gap/README.md",
-  "trackedSiteUrl": "https://www.enrichanything.com/reports/canada-accounting-automation-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-canada-accounting-automation-gap",
-  "trackedMarketUrl": "https://www.enrichanything.com/markets/accounting-firms-canada-hiring-bookkeepers-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-canada-accounting-automation-gap-market"
+  ]
 }

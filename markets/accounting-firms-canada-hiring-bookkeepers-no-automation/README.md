@@ -2,8 +2,8 @@
 
 A public list of smaller Canadian accounting firms where hiring activity suggests back-office process pressure and little visible automation.
 
-- Open in EnrichAnything: [See the live list](https://www.enrichanything.com/markets/accounting-firms-canada-hiring-bookkeepers-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-canada-hiring-bookkeepers-no-automation)
-- Related note: [Read the matching note](https://www.enrichanything.com/reports/canada-accounting-automation-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-canada-hiring-bookkeepers-no-automation-report)
+- Page: https://www.enrichanything.com/markets/accounting-firms-canada-hiring-bookkeepers-no-automation
+- Related note: https://www.enrichanything.com/reports/canada-accounting-automation-gap
 - Useful for: AI automation consultants, operations freelancers, SMB workflow agencies
 - Status: live
 - Last checked: March 23, 2026
@@ -64,4 +64,4 @@ This list combines Canada accounting-firm footprints, a 10 to 50 employees band,
 
 This is strongest when the outreach angle is operational strain, not generic AI interest.
 
-Open [the live list in EnrichAnything](https://www.enrichanything.com/markets/accounting-firms-canada-hiring-bookkeepers-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-canada-hiring-bookkeepers-no-automation) if you want the full table, extra columns, or the same search for a different niche.
+Open this list in EnrichAnything if you want the full table, extra columns, or a version for a different niche: https://www.enrichanything.com/markets/accounting-firms-canada-hiring-bookkeepers-no-automation

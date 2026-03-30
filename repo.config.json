@@ -5,7 +5,7 @@
   "theme": "Useful if you sell workflow automation, intake automation, or back-office ops work.",
   "accentColor": "#9a3412",
   "siteOrigin": "https://www.enrichanything.com",
-  "generatedAt": "2026-03-30T11:52:09.021Z",
+  "generatedAt": "2026-03-30T13:28:06.691Z",
   "topics": [
     "automation",
     "operations",
@@ -862,6 +862,10 @@
     }
   ],
   "trackedHomeUrl": "https://www.enrichanything.com/?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=repo-home",
+  "socialImagePath": "assets/social-preview.png",
+  "socialImageSvgPath": "assets/social-preview.svg",
+  "socialImageUrl": "https://bhumanai.github.io/enrichanything-ops-automation-gaps/assets/social-preview.png",
+  "socialImageSvgUrl": "https://bhumanai.github.io/enrichanything-ops-automation-gaps/assets/social-preview.svg",
   "featuredMarketTitle": "Accounting firms in the US hiring bookkeepers without automation tooling (10 to 100 employees)",
   "featuredMarketUrl": "https://www.enrichanything.com/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-us-hiring-bookkeepers-no-automation-10-100",
   "featuredReportSlug": "us-accounting-automation-gap-10-100",

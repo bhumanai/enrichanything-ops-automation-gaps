@@ -1,5 +1,7 @@
 # Firms Still Solving Ops Work by Hiring More Staff
 
+![Firms Still Solving Ops Work by Hiring More Staff](assets/social-preview.png)
+
 Lists of accounting and law firms that look overloaded and still light on automation.
 
 Useful if you sell workflow automation, intake automation, or back-office ops work.

@@ -79,9 +79,5 @@
       "gap": "No automation tooling visible",
       "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
     }
-  ],
-  "repoReadmePath": "reports/us-accounting-automation-gap-10-100/README.md",
-  "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/reports/us-accounting-automation-gap-10-100/README.md",
-  "trackedSiteUrl": "https://www.enrichanything.com/reports/us-accounting-automation-gap-10-100?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-us-accounting-automation-gap-10-100",
-  "trackedMarketUrl": "https://www.enrichanything.com/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-us-accounting-automation-gap-10-100-market"
+  ]
 }
