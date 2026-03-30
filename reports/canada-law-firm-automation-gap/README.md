@@ -2,8 +2,8 @@
 
 A public research note on how smaller Canadian law firms often add admin headcount before showing visible workflow automation.
 
-- Page: https://www.enrichanything.com/reports/canada-law-firm-automation-gap
-- Related list: https://www.enrichanything.com/markets/law-firms-canada-hiring-admin-no-automation
+- Open in EnrichAnything: [See the note](https://www.enrichanything.com/reports/canada-law-firm-automation-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-canada-law-firm-automation-gap)
+- Related list: [Open the linked list](https://www.enrichanything.com/markets/law-firms-canada-hiring-admin-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-canada-law-firm-automation-gap-market)
 - Status: live
 - Context: Updated from EnrichAnything market scans · live snapshot from March 23, 2026
 - Last checked: March 23, 2026
@@ -43,4 +43,4 @@ This note is live and based on the current public list.
 
 ## Want the full list?
 
-Open the related list in EnrichAnything if you want to inspect rows, add columns, or build your own version: https://www.enrichanything.com/reports/canada-law-firm-automation-gap
+Open the [related list in EnrichAnything](https://www.enrichanything.com/markets/law-firms-canada-hiring-admin-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-canada-law-firm-automation-gap-market) if you want rows, more columns, or a version for your own segment.

@@ -1,0 +1,317 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Firms Still Solving Ops Work by Hiring More Staff</title>
+    <meta name="description" content="Lists of accounting and law firms that look overloaded and still light on automation.">
+    <style>
+      :root {
+        --bg: #f5f0e8;
+        --surface: rgba(255, 251, 245, 0.94);
+        --surface-strong: #fffdf8;
+        --ink: #1c1712;
+        --muted: #62584e;
+        --border: rgba(28, 23, 18, 0.12);
+        --accent: #9a3412;
+        --shadow: 0 24px 60px rgba(33, 25, 18, 0.08);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: "IBM Plex Sans", "Avenir Next", "Segoe UI", sans-serif;
+        background:
+          radial-gradient(circle at top left, rgba(255, 255, 255, 0.7), transparent 30rem),
+          linear-gradient(180deg, #f7f2ea 0%, #efe6da 100%);
+        color: var(--ink);
+      }
+
+      a {
+        color: inherit;
+      }
+
+      .shell {
+        max-width: 1120px;
+        margin: 0 auto;
+        padding: 32px 20px 72px;
+      }
+
+      .topbar {
+        display: flex;
+        justify-content: space-between;
+        gap: 16px;
+        align-items: center;
+        margin-bottom: 32px;
+        font-size: 0.95rem;
+        color: var(--muted);
+      }
+
+      .topbar-links {
+        display: flex;
+        gap: 14px;
+        flex-wrap: wrap;
+      }
+
+      .hero {
+        padding: 40px;
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: 28px;
+        box-shadow: var(--shadow);
+      }
+
+      .eyebrow {
+        margin: 0 0 12px;
+        font-size: 0.82rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--accent);
+      }
+
+      h1,
+      h2,
+      h3,
+      p {
+        margin-top: 0;
+      }
+
+      h1 {
+        margin-bottom: 12px;
+        font-size: clamp(2.3rem, 5vw, 4.4rem);
+        line-height: 0.96;
+        max-width: 14ch;
+      }
+
+      .lede {
+        max-width: 44rem;
+        margin-bottom: 10px;
+        font-size: 1.12rem;
+        line-height: 1.6;
+      }
+
+      .sublede {
+        max-width: 42rem;
+        margin-bottom: 24px;
+        color: var(--muted);
+        font-size: 1rem;
+        line-height: 1.6;
+      }
+
+      .hero-stats,
+      .card-actions,
+      .topbar-links,
+      .hero-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+      }
+
+      .stat {
+        padding: 10px 14px;
+        border: 1px solid var(--border);
+        border-radius: 999px;
+        background: var(--surface-strong);
+        font-size: 0.92rem;
+      }
+
+      .hero-actions {
+        margin-top: 24px;
+      }
+
+      .button,
+      .ghost {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 44px;
+        padding: 0 16px;
+        border-radius: 999px;
+        border: 1px solid var(--border);
+        text-decoration: none;
+        font-weight: 600;
+      }
+
+      .button {
+        background: var(--accent);
+        border-color: var(--accent);
+        color: #fff;
+      }
+
+      .ghost {
+        background: var(--surface-strong);
+        color: var(--ink);
+      }
+
+      .section {
+        margin-top: 36px;
+      }
+
+      .section-head {
+        display: flex;
+        justify-content: space-between;
+        gap: 16px;
+        align-items: flex-end;
+        margin-bottom: 16px;
+      }
+
+      .section-head p {
+        color: var(--muted);
+        max-width: 40rem;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 16px;
+      }
+
+      .card {
+        padding: 22px;
+        border-radius: 22px;
+        border: 1px solid var(--border);
+        background: var(--surface);
+      }
+
+      .playbook-card {
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0.9), rgba(255, 249, 242, 0.95));
+      }
+
+      .list-card h3 {
+        margin-bottom: 10px;
+        font-size: 1.18rem;
+        line-height: 1.2;
+      }
+
+      .card-copy,
+      .card-meta,
+      .card-link,
+      .queued-item span {
+        color: var(--muted);
+        line-height: 1.55;
+      }
+
+      .card-status {
+        margin-bottom: 12px;
+        color: var(--accent);
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        font-size: 0.76rem;
+      }
+
+      .queued-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+        gap: 12px;
+      }
+
+      .queued-item {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        padding: 18px;
+        border: 1px solid var(--border);
+        border-radius: 18px;
+        background: rgba(255, 255, 255, 0.6);
+      }
+
+      footer {
+        margin-top: 42px;
+        color: var(--muted);
+        font-size: 0.92rem;
+      }
+
+      @media (max-width: 720px) {
+        .shell {
+          padding: 20px 14px 52px;
+        }
+
+        .hero {
+          padding: 24px;
+          border-radius: 22px;
+        }
+
+        .topbar,
+        .section-head {
+          display: block;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="shell">
+      <div class="topbar">
+        <strong>EnrichAnything public repo</strong>
+        <div class="topbar-links">
+          <a href="https://github.com/bhumanai/enrichanything-ops-automation-gaps">GitHub repo</a>
+          <a href="https://www.enrichanything.com/?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-ops-automation-gaps&amp;utm_content=repo-home">Main site</a>
+        </div>
+      </div>
+
+      <section class="hero">
+        <p class="eyebrow">Source-backed prospect lists</p>
+        <h1>Firms Still Solving Ops Work by Hiring More Staff</h1>
+        <p class="lede">Lists of accounting and law firms that look overloaded and still light on automation.</p>
+        <p class="sublede">Useful if you sell workflow automation, intake automation, or back-office ops work.</p>
+
+        <div class="hero-stats">
+          <span class="stat">4 lists ready</span>
+          <span class="stat">4 notes ready</span>
+          <span class="stat">Updated March 30, 2026</span>
+        </div>
+
+        <div class="hero-actions">
+          <a class="button" href="https://www.enrichanything.com/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-ops-automation-gaps&amp;utm_content=market-accounting-firms-us-hiring-bookkeepers-no-automation-10-100">Open the main list</a>
+          <a class="ghost" href="https://www.enrichanything.com/reports/us-accounting-automation-gap-10-100?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-ops-automation-gaps&amp;utm_content=report-us-accounting-automation-gap-10-100">Read the matching note</a>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <div>
+            <h2>How people actually use this</h2>
+            <p>Each repo is aimed at a buyer motion, not a vague category page.</p>
+          </div>
+        </div>
+        <div class="grid">
+          <article class="card playbook-card"><p class="eyebrow">Automation agencies</p><p class="card-copy">Lead with labor pain, not generic efficiency. These firms already signal workflow strain by hiring around the work.</p><p class="card-link"><a href="https://www.enrichanything.com/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-ops-automation-gaps&amp;utm_content=market-accounting-firms-us-hiring-bookkeepers-no-automation-10-100">Start with Accounting firms in the US hiring bookkeepers without automation tooling (10 to 100 employees)</a> <span>live</span></p></article><article class="card playbook-card"><p class="eyebrow">Legal intake builders</p><p class="card-copy">Use the law-firm list when the wedge is intake, admin load, or client handoff work that still looks too manual.</p><p class="card-link"><a href="https://www.enrichanything.com/markets/law-firms-canada-hiring-admin-no-automation?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-ops-automation-gaps&amp;utm_content=market-law-firms-canada-hiring-admin-no-automation">Start with Law firms in Canada hiring admin staff without automation tooling</a> <span>live</span></p></article><article class="card playbook-card"><p class="eyebrow">Fractional ops consultants</p><p class="card-copy">Start from the firms already adding headcount, then validate where process cleanup or tooling can remove the need for more hires.</p><p class="card-link"><a href="https://www.enrichanything.com/markets/accounting-firms-canada-hiring-bookkeepers-no-automation?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-ops-automation-gaps&amp;utm_content=market-accounting-firms-canada-hiring-bookkeepers-no-automation">Start with Accounting firms in Canada hiring bookkeepers without automation tooling</a> <span>live</span></p></article>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <div>
+            <h2>Lists you can use now</h2>
+            <p>Open the list on EnrichAnything when you want the full table. Read the GitHub page when you want the context first.</p>
+          </div>
+        </div>
+        <div class="grid">
+          <article class="card list-card"><p class="card-status">live</p><h3>Accounting firms hiring bookkeepers without automation tooling</h3><p class="card-copy">A public list of smaller accounting firms where hiring activity suggests back-office process pressure and little visible automation.</p><p class="card-meta">50 rows · AI automation consultants, operations freelancers, SMB workflow agencies</p><div class="card-actions"><a class="ghost" href="https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/markets/accounting-firms-hiring-bookkeepers-no-automation/README.md">Read details</a><a class="button" href="https://www.enrichanything.com/markets/accounting-firms-hiring-bookkeepers-no-automation?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-ops-automation-gaps&amp;utm_content=market-accounting-firms-hiring-bookkeepers-no-automation">Open list</a></div></article><article class="card list-card"><p class="card-status">live</p><h3>Accounting firms in Canada hiring bookkeepers without automation tooling</h3><p class="card-copy">A public list of smaller Canadian accounting firms where hiring activity suggests back-office process pressure and little visible automation.</p><p class="card-meta">34 rows · AI automation consultants, operations freelancers, SMB workflow agencies</p><div class="card-actions"><a class="ghost" href="https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/markets/accounting-firms-canada-hiring-bookkeepers-no-automation/README.md">Read details</a><a class="button" href="https://www.enrichanything.com/markets/accounting-firms-canada-hiring-bookkeepers-no-automation?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-ops-automation-gaps&amp;utm_content=market-accounting-firms-canada-hiring-bookkeepers-no-automation">Open list</a></div></article><article class="card list-card"><p class="card-status">live</p><h3>Accounting firms in the US hiring bookkeepers without automation tooling (10 to 100 employees)</h3><p class="card-copy">A public list of US accounting firms in a slightly broader size band where hiring activity still points to manual back-office process pressure.</p><p class="card-meta">28 rows · AI automation consultants, operations freelancers, SMB workflow agencies</p><div class="card-actions"><a class="ghost" href="https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100/README.md">Read details</a><a class="button" href="https://www.enrichanything.com/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-ops-automation-gaps&amp;utm_content=market-accounting-firms-us-hiring-bookkeepers-no-automation-10-100">Open list</a></div></article><article class="card list-card"><p class="card-status">live</p><h3>Law firms in Canada hiring admin staff without automation tooling</h3><p class="card-copy">A public list of smaller Canadian law firms where hiring activity suggests intake and admin pressure with little visible automation.</p><p class="card-meta">21 rows · Legal ops consultants, AI automation consultants, SMB workflow agencies</p><div class="card-actions"><a class="ghost" href="https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/markets/law-firms-canada-hiring-admin-no-automation/README.md">Read details</a><a class="button" href="https://www.enrichanything.com/markets/law-firms-canada-hiring-admin-no-automation?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-ops-automation-gaps&amp;utm_content=market-law-firms-canada-hiring-admin-no-automation">Open list</a></div></article>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-head">
+          <div>
+            <h2>Notes that explain the market</h2>
+            <p>These are the short writeups behind the lists, so the repo does not feel like a random dump of CSV-shaped pages.</p>
+          </div>
+        </div>
+        <div class="grid">
+          <article class="card list-card"><p class="card-status">live</p><h3>Canadian accounting firms still hire around process pain before they automate it</h3><p class="card-copy">A public research note on how canadian accounting firms often add back-office headcount before showing visible automation tools.</p><p class="card-meta">34 rows · Updated from EnrichAnything market scans · live snapshot from March 23, 2026</p><div class="card-actions"><a class="ghost" href="https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/reports/canada-accounting-automation-gap/README.md">Read details</a><a class="button" href="https://www.enrichanything.com/reports/canada-accounting-automation-gap?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-ops-automation-gaps&amp;utm_content=report-canada-accounting-automation-gap">Open note</a></div></article><article class="card list-card"><p class="card-status">live</p><h3>Canadian law firms still hire around intake and admin workload before they automate it</h3><p class="card-copy">A public research note on how smaller Canadian law firms often add admin headcount before showing visible workflow automation.</p><p class="card-meta">21 rows · Updated from EnrichAnything market scans · live snapshot from March 23, 2026</p><div class="card-actions"><a class="ghost" href="https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/reports/canada-law-firm-automation-gap/README.md">Read details</a><a class="button" href="https://www.enrichanything.com/reports/canada-law-firm-automation-gap?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-ops-automation-gaps&amp;utm_content=report-canada-law-firm-automation-gap">Open note</a></div></article><article class="card list-card"><p class="card-status">live</p><h3>Small accounting firms still hire around process pain before they automate it</h3><p class="card-copy">A public research note on how smaller accounting firms often add back-office headcount before showing visible automation tools.</p><p class="card-meta">50 rows · Updated from EnrichAnything market scans · live snapshot from March 22, 2026</p><div class="card-actions"><a class="ghost" href="https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/reports/accounting-automation-gap/README.md">Read details</a><a class="button" href="https://www.enrichanything.com/reports/accounting-automation-gap?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-ops-automation-gaps&amp;utm_content=report-accounting-automation-gap">Open note</a></div></article><article class="card list-card"><p class="card-status">live</p><h3>US accounting firms still hire around process pain before they automate it</h3><p class="card-copy">A public research note on how us accounting firms often add back-office headcount before showing visible automation tools.</p><p class="card-meta">28 rows · Updated from EnrichAnything market scans · live snapshot from March 23, 2026</p><div class="card-actions"><a class="ghost" href="https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/reports/us-accounting-automation-gap-10-100/README.md">Read details</a><a class="button" href="https://www.enrichanything.com/reports/us-accounting-automation-gap-10-100?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-ops-automation-gaps&amp;utm_content=report-us-accounting-automation-gap-10-100">Open note</a></div></article>
+        </div>
+      </section>
+
+      
+
+      <footer>
+        Want a different cut, more columns, or a fresh export? <a href="https://www.enrichanything.com/?utm_source=github&amp;utm_medium=public_repo&amp;utm_campaign=enrichanything-ops-automation-gaps&amp;utm_content=repo-home">Open EnrichAnything</a>.
+      </footer>
+    </main>
+  </body>
+</html>

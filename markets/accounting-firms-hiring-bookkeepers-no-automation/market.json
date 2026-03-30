@@ -111,5 +111,9 @@
       "gap": "No visible workflow automation detected",
       "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
     }
-  ]
+  ],
+  "repoReadmePath": "markets/accounting-firms-hiring-bookkeepers-no-automation/README.md",
+  "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/markets/accounting-firms-hiring-bookkeepers-no-automation/README.md",
+  "trackedSiteUrl": "https://www.enrichanything.com/markets/accounting-firms-hiring-bookkeepers-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-hiring-bookkeepers-no-automation",
+  "trackedReportUrl": "https://www.enrichanything.com/reports/accounting-automation-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-hiring-bookkeepers-no-automation-report"
 }

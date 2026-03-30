@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T11:26:31.907Z",
+  "generatedAt": "2026-03-30T11:52:09.021Z",
   "title": "Firms Still Solving Ops Work by Hiring More Staff",
   "summary": "Lists of accounting and law firms that look overloaded and still light on automation.",
   "topics": [
@@ -125,7 +125,11 @@
           "gap": "No visible workflow automation detected",
           "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
         }
-      ]
+      ],
+      "repoReadmePath": "markets/accounting-firms-hiring-bookkeepers-no-automation/README.md",
+      "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/markets/accounting-firms-hiring-bookkeepers-no-automation/README.md",
+      "trackedSiteUrl": "https://www.enrichanything.com/markets/accounting-firms-hiring-bookkeepers-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-hiring-bookkeepers-no-automation",
+      "trackedReportUrl": "https://www.enrichanything.com/reports/accounting-automation-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-hiring-bookkeepers-no-automation-report"
     },
     {
       "kind": "market",
@@ -235,7 +239,11 @@
           "gap": "No visible workflow automation detected",
           "whyNow": ""
         }
-      ]
+      ],
+      "repoReadmePath": "markets/accounting-firms-canada-hiring-bookkeepers-no-automation/README.md",
+      "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/markets/accounting-firms-canada-hiring-bookkeepers-no-automation/README.md",
+      "trackedSiteUrl": "https://www.enrichanything.com/markets/accounting-firms-canada-hiring-bookkeepers-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-canada-hiring-bookkeepers-no-automation",
+      "trackedReportUrl": "https://www.enrichanything.com/reports/canada-accounting-automation-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-canada-hiring-bookkeepers-no-automation-report"
     },
     {
       "kind": "market",
@@ -345,7 +353,11 @@
           "gap": "No automation tooling visible",
           "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
         }
-      ]
+      ],
+      "repoReadmePath": "markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100/README.md",
+      "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100/README.md",
+      "trackedSiteUrl": "https://www.enrichanything.com/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-us-hiring-bookkeepers-no-automation-10-100",
+      "trackedReportUrl": "https://www.enrichanything.com/reports/us-accounting-automation-gap-10-100?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-us-hiring-bookkeepers-no-automation-10-100-report"
     },
     {
       "kind": "market",
@@ -455,7 +467,11 @@
           "gap": "No visible workflow automation detected",
           "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
         }
-      ]
+      ],
+      "repoReadmePath": "markets/law-firms-canada-hiring-admin-no-automation/README.md",
+      "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/markets/law-firms-canada-hiring-admin-no-automation/README.md",
+      "trackedSiteUrl": "https://www.enrichanything.com/markets/law-firms-canada-hiring-admin-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-law-firms-canada-hiring-admin-no-automation",
+      "trackedReportUrl": "https://www.enrichanything.com/reports/canada-law-firm-automation-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-law-firms-canada-hiring-admin-no-automation-report"
     }
   ],
   "reports": [
@@ -540,7 +556,11 @@
           "gap": "No visible workflow automation detected",
           "whyNow": ""
         }
-      ]
+      ],
+      "repoReadmePath": "reports/canada-accounting-automation-gap/README.md",
+      "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/reports/canada-accounting-automation-gap/README.md",
+      "trackedSiteUrl": "https://www.enrichanything.com/reports/canada-accounting-automation-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-canada-accounting-automation-gap",
+      "trackedMarketUrl": "https://www.enrichanything.com/markets/accounting-firms-canada-hiring-bookkeepers-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-canada-accounting-automation-gap-market"
     },
     {
       "kind": "report",
@@ -623,7 +643,11 @@
           "gap": "No visible workflow automation detected",
           "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
         }
-      ]
+      ],
+      "repoReadmePath": "reports/canada-law-firm-automation-gap/README.md",
+      "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/reports/canada-law-firm-automation-gap/README.md",
+      "trackedSiteUrl": "https://www.enrichanything.com/reports/canada-law-firm-automation-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-canada-law-firm-automation-gap",
+      "trackedMarketUrl": "https://www.enrichanything.com/markets/law-firms-canada-hiring-admin-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-canada-law-firm-automation-gap-market"
     },
     {
       "kind": "report",
@@ -706,7 +730,11 @@
           "gap": "No visible workflow automation detected",
           "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
         }
-      ]
+      ],
+      "repoReadmePath": "reports/accounting-automation-gap/README.md",
+      "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/reports/accounting-automation-gap/README.md",
+      "trackedSiteUrl": "https://www.enrichanything.com/reports/accounting-automation-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-accounting-automation-gap",
+      "trackedMarketUrl": "https://www.enrichanything.com/markets/accounting-firms-hiring-bookkeepers-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-accounting-automation-gap-market"
     },
     {
       "kind": "report",
@@ -789,7 +817,11 @@
           "gap": "No automation tooling visible",
           "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
         }
-      ]
+      ],
+      "repoReadmePath": "reports/us-accounting-automation-gap-10-100/README.md",
+      "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/reports/us-accounting-automation-gap-10-100/README.md",
+      "trackedSiteUrl": "https://www.enrichanything.com/reports/us-accounting-automation-gap-10-100?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-us-accounting-automation-gap-10-100",
+      "trackedMarketUrl": "https://www.enrichanything.com/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-us-accounting-automation-gap-10-100-market"
     }
   ]
 }
