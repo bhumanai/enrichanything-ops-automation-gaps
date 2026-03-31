@@ -2,8 +2,10 @@
 
 A public list of US accounting firms in a slightly broader size band where hiring activity still points to manual back-office process pressure.
 
-- Page: https://www.enrichanything.com/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100
-- Related note: https://www.enrichanything.com/reports/us-accounting-automation-gap-10-100
+- Dataset page: [Open the latest dataset](https://www.enrichanything.com/datasets/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-us-hiring-bookkeepers-no-automation-10-100-dataset)
+- Immutable snapshot: [Open the stable permalink](https://www.enrichanything.com/snapshots/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100/2026-03-23-ef8dc0ed29?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-us-hiring-bookkeepers-no-automation-10-100-snapshot)
+- Open in EnrichAnything: [See the live list](https://www.enrichanything.com/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-us-hiring-bookkeepers-no-automation-10-100)
+- Related note: [Read the matching note](https://www.enrichanything.com/reports/us-accounting-automation-gap-10-100?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-us-hiring-bookkeepers-no-automation-10-100-report)
 - Useful for: AI automation consultants, operations freelancers, SMB workflow agencies
 - Status: live
 - Last checked: March 23, 2026
@@ -64,4 +66,4 @@ This list combines the US accounting-firm footprints, a 10 to 100 employees band
 
 This is strongest when the outreach angle is operational strain, not generic AI interest.
 
-Open this list in EnrichAnything if you want the full table, extra columns, or a version for a different niche: https://www.enrichanything.com/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100
+Open [the live list in EnrichAnything](https://www.enrichanything.com/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-us-hiring-bookkeepers-no-automation-10-100) if you want the full table, extra columns, or the same search for a different niche.

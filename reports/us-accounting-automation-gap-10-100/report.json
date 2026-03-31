@@ -7,6 +7,13 @@
   "marketSlug": "accounting-firms-us-hiring-bookkeepers-no-automation-10-100",
   "marketUrl": "https://www.enrichanything.com/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100",
   "siteUrl": "https://www.enrichanything.com/reports/us-accounting-automation-gap-10-100",
+  "snapshotId": "2026-03-23-7963db5259",
+  "datasetUrl": "https://www.enrichanything.com/datasets/reports/us-accounting-automation-gap-10-100",
+  "datasetJsonUrl": "https://www.enrichanything.com/datasets/reports/us-accounting-automation-gap-10-100/payload.json",
+  "datasetCsvUrl": "https://www.enrichanything.com/datasets/reports/us-accounting-automation-gap-10-100/sample-rows.csv",
+  "snapshotUrl": "https://www.enrichanything.com/snapshots/reports/us-accounting-automation-gap-10-100/2026-03-23-7963db5259",
+  "snapshotJsonUrl": "https://www.enrichanything.com/snapshots/reports/us-accounting-automation-gap-10-100/2026-03-23-7963db5259/payload.json",
+  "snapshotCsvUrl": "https://www.enrichanything.com/snapshots/reports/us-accounting-automation-gap-10-100/2026-03-23-7963db5259/sample-rows.csv",
   "status": "live",
   "live": true,
   "dataSource": "collected_sample",
@@ -79,5 +86,11 @@
       "gap": "No automation tooling visible",
       "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
     }
-  ]
+  ],
+  "repoReadmePath": "reports/us-accounting-automation-gap-10-100/README.md",
+  "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/reports/us-accounting-automation-gap-10-100/README.md",
+  "trackedDatasetUrl": "https://www.enrichanything.com/datasets/reports/us-accounting-automation-gap-10-100?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-us-accounting-automation-gap-10-100-dataset",
+  "trackedSnapshotUrl": "https://www.enrichanything.com/snapshots/reports/us-accounting-automation-gap-10-100/2026-03-23-7963db5259?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-us-accounting-automation-gap-10-100-snapshot",
+  "trackedSiteUrl": "https://www.enrichanything.com/reports/us-accounting-automation-gap-10-100?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-us-accounting-automation-gap-10-100",
+  "trackedMarketUrl": "https://www.enrichanything.com/markets/accounting-firms-us-hiring-bookkeepers-no-automation-10-100?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-us-accounting-automation-gap-10-100-market"
 }

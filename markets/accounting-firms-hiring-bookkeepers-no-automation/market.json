@@ -58,6 +58,13 @@
   "reportSlug": "accounting-automation-gap",
   "siteUrl": "https://www.enrichanything.com/markets/accounting-firms-hiring-bookkeepers-no-automation",
   "reportUrl": "https://www.enrichanything.com/reports/accounting-automation-gap",
+  "snapshotId": "2026-03-22-356f9916bc",
+  "datasetUrl": "https://www.enrichanything.com/datasets/markets/accounting-firms-hiring-bookkeepers-no-automation",
+  "datasetJsonUrl": "https://www.enrichanything.com/datasets/markets/accounting-firms-hiring-bookkeepers-no-automation/payload.json",
+  "datasetCsvUrl": "https://www.enrichanything.com/datasets/markets/accounting-firms-hiring-bookkeepers-no-automation/sample-rows.csv",
+  "snapshotUrl": "https://www.enrichanything.com/snapshots/markets/accounting-firms-hiring-bookkeepers-no-automation/2026-03-22-356f9916bc",
+  "snapshotJsonUrl": "https://www.enrichanything.com/snapshots/markets/accounting-firms-hiring-bookkeepers-no-automation/2026-03-22-356f9916bc/payload.json",
+  "snapshotCsvUrl": "https://www.enrichanything.com/snapshots/markets/accounting-firms-hiring-bookkeepers-no-automation/2026-03-22-356f9916bc/sample-rows.csv",
   "status": "live",
   "live": true,
   "dataSource": "collected_sample",
@@ -111,5 +118,11 @@
       "gap": "No visible workflow automation detected",
       "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
     }
-  ]
+  ],
+  "repoReadmePath": "markets/accounting-firms-hiring-bookkeepers-no-automation/README.md",
+  "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/markets/accounting-firms-hiring-bookkeepers-no-automation/README.md",
+  "trackedDatasetUrl": "https://www.enrichanything.com/datasets/markets/accounting-firms-hiring-bookkeepers-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-hiring-bookkeepers-no-automation-dataset",
+  "trackedSnapshotUrl": "https://www.enrichanything.com/snapshots/markets/accounting-firms-hiring-bookkeepers-no-automation/2026-03-22-356f9916bc?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-hiring-bookkeepers-no-automation-snapshot",
+  "trackedSiteUrl": "https://www.enrichanything.com/markets/accounting-firms-hiring-bookkeepers-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-hiring-bookkeepers-no-automation",
+  "trackedReportUrl": "https://www.enrichanything.com/reports/accounting-automation-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-hiring-bookkeepers-no-automation-report"
 }

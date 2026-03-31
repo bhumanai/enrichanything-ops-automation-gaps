@@ -59,6 +59,13 @@
   "reportSlug": "canada-accounting-automation-gap",
   "siteUrl": "https://www.enrichanything.com/markets/accounting-firms-canada-hiring-bookkeepers-no-automation",
   "reportUrl": "https://www.enrichanything.com/reports/canada-accounting-automation-gap",
+  "snapshotId": "2026-03-23-3c458def24",
+  "datasetUrl": "https://www.enrichanything.com/datasets/markets/accounting-firms-canada-hiring-bookkeepers-no-automation",
+  "datasetJsonUrl": "https://www.enrichanything.com/datasets/markets/accounting-firms-canada-hiring-bookkeepers-no-automation/payload.json",
+  "datasetCsvUrl": "https://www.enrichanything.com/datasets/markets/accounting-firms-canada-hiring-bookkeepers-no-automation/sample-rows.csv",
+  "snapshotUrl": "https://www.enrichanything.com/snapshots/markets/accounting-firms-canada-hiring-bookkeepers-no-automation/2026-03-23-3c458def24",
+  "snapshotJsonUrl": "https://www.enrichanything.com/snapshots/markets/accounting-firms-canada-hiring-bookkeepers-no-automation/2026-03-23-3c458def24/payload.json",
+  "snapshotCsvUrl": "https://www.enrichanything.com/snapshots/markets/accounting-firms-canada-hiring-bookkeepers-no-automation/2026-03-23-3c458def24/sample-rows.csv",
   "status": "live",
   "live": true,
   "dataSource": "collected_sample",
@@ -106,5 +113,11 @@
       "gap": "No visible workflow automation detected",
       "whyNow": ""
     }
-  ]
+  ],
+  "repoReadmePath": "markets/accounting-firms-canada-hiring-bookkeepers-no-automation/README.md",
+  "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/markets/accounting-firms-canada-hiring-bookkeepers-no-automation/README.md",
+  "trackedDatasetUrl": "https://www.enrichanything.com/datasets/markets/accounting-firms-canada-hiring-bookkeepers-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-canada-hiring-bookkeepers-no-automation-dataset",
+  "trackedSnapshotUrl": "https://www.enrichanything.com/snapshots/markets/accounting-firms-canada-hiring-bookkeepers-no-automation/2026-03-23-3c458def24?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-canada-hiring-bookkeepers-no-automation-snapshot",
+  "trackedSiteUrl": "https://www.enrichanything.com/markets/accounting-firms-canada-hiring-bookkeepers-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-canada-hiring-bookkeepers-no-automation",
+  "trackedReportUrl": "https://www.enrichanything.com/reports/canada-accounting-automation-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-accounting-firms-canada-hiring-bookkeepers-no-automation-report"
 }

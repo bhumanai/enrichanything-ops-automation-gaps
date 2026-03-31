@@ -2,8 +2,10 @@
 
 A public list of smaller Canadian law firms where hiring activity suggests intake and admin pressure with little visible automation.
 
-- Page: https://www.enrichanything.com/markets/law-firms-canada-hiring-admin-no-automation
-- Related note: https://www.enrichanything.com/reports/canada-law-firm-automation-gap
+- Dataset page: [Open the latest dataset](https://www.enrichanything.com/datasets/markets/law-firms-canada-hiring-admin-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-law-firms-canada-hiring-admin-no-automation-dataset)
+- Immutable snapshot: [Open the stable permalink](https://www.enrichanything.com/snapshots/markets/law-firms-canada-hiring-admin-no-automation/2026-03-23-823787a6c6?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-law-firms-canada-hiring-admin-no-automation-snapshot)
+- Open in EnrichAnything: [See the live list](https://www.enrichanything.com/markets/law-firms-canada-hiring-admin-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-law-firms-canada-hiring-admin-no-automation)
+- Related note: [Read the matching note](https://www.enrichanything.com/reports/canada-law-firm-automation-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-law-firms-canada-hiring-admin-no-automation-report)
 - Useful for: Legal ops consultants, AI automation consultants, SMB workflow agencies
 - Status: live
 - Last checked: March 23, 2026
@@ -64,4 +66,4 @@ This list combines Canada law-firm footprints, a 10 to 50 employees band, recent
 
 This is strongest when the outreach angle is intake and workflow pressure, not generic legal AI.
 
-Open this list in EnrichAnything if you want the full table, extra columns, or a version for a different niche: https://www.enrichanything.com/markets/law-firms-canada-hiring-admin-no-automation
+Open [the live list in EnrichAnything](https://www.enrichanything.com/markets/law-firms-canada-hiring-admin-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=market-law-firms-canada-hiring-admin-no-automation) if you want the full table, extra columns, or the same search for a different niche.

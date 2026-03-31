@@ -7,6 +7,13 @@
   "marketSlug": "law-firms-canada-hiring-admin-no-automation",
   "marketUrl": "https://www.enrichanything.com/markets/law-firms-canada-hiring-admin-no-automation",
   "siteUrl": "https://www.enrichanything.com/reports/canada-law-firm-automation-gap",
+  "snapshotId": "2026-03-23-6808fca4ba",
+  "datasetUrl": "https://www.enrichanything.com/datasets/reports/canada-law-firm-automation-gap",
+  "datasetJsonUrl": "https://www.enrichanything.com/datasets/reports/canada-law-firm-automation-gap/payload.json",
+  "datasetCsvUrl": "https://www.enrichanything.com/datasets/reports/canada-law-firm-automation-gap/sample-rows.csv",
+  "snapshotUrl": "https://www.enrichanything.com/snapshots/reports/canada-law-firm-automation-gap/2026-03-23-6808fca4ba",
+  "snapshotJsonUrl": "https://www.enrichanything.com/snapshots/reports/canada-law-firm-automation-gap/2026-03-23-6808fca4ba/payload.json",
+  "snapshotCsvUrl": "https://www.enrichanything.com/snapshots/reports/canada-law-firm-automation-gap/2026-03-23-6808fca4ba/sample-rows.csv",
   "status": "live",
   "live": true,
   "dataSource": "collected_sample",
@@ -79,5 +86,11 @@
       "gap": "No visible workflow automation detected",
       "whyNow": "The trigger is visible in current hiring activity, which makes the timing immediate."
     }
-  ]
+  ],
+  "repoReadmePath": "reports/canada-law-firm-automation-gap/README.md",
+  "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/reports/canada-law-firm-automation-gap/README.md",
+  "trackedDatasetUrl": "https://www.enrichanything.com/datasets/reports/canada-law-firm-automation-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-canada-law-firm-automation-gap-dataset",
+  "trackedSnapshotUrl": "https://www.enrichanything.com/snapshots/reports/canada-law-firm-automation-gap/2026-03-23-6808fca4ba?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-canada-law-firm-automation-gap-snapshot",
+  "trackedSiteUrl": "https://www.enrichanything.com/reports/canada-law-firm-automation-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-canada-law-firm-automation-gap",
+  "trackedMarketUrl": "https://www.enrichanything.com/markets/law-firms-canada-hiring-admin-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-canada-law-firm-automation-gap-market"
 }

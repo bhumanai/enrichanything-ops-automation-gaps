@@ -7,6 +7,13 @@
   "marketSlug": "accounting-firms-hiring-bookkeepers-no-automation",
   "marketUrl": "https://www.enrichanything.com/markets/accounting-firms-hiring-bookkeepers-no-automation",
   "siteUrl": "https://www.enrichanything.com/reports/accounting-automation-gap",
+  "snapshotId": "2026-03-22-5b9da83e32",
+  "datasetUrl": "https://www.enrichanything.com/datasets/reports/accounting-automation-gap",
+  "datasetJsonUrl": "https://www.enrichanything.com/datasets/reports/accounting-automation-gap/payload.json",
+  "datasetCsvUrl": "https://www.enrichanything.com/datasets/reports/accounting-automation-gap/sample-rows.csv",
+  "snapshotUrl": "https://www.enrichanything.com/snapshots/reports/accounting-automation-gap/2026-03-22-5b9da83e32",
+  "snapshotJsonUrl": "https://www.enrichanything.com/snapshots/reports/accounting-automation-gap/2026-03-22-5b9da83e32/payload.json",
+  "snapshotCsvUrl": "https://www.enrichanything.com/snapshots/reports/accounting-automation-gap/2026-03-22-5b9da83e32/sample-rows.csv",
   "status": "live",
   "live": true,
   "dataSource": "collected_sample",
@@ -79,5 +86,11 @@
       "gap": "No visible workflow automation detected",
       "whyNow": "Active back-office hiring suggests the manual workload is current, not hypothetical."
     }
-  ]
+  ],
+  "repoReadmePath": "reports/accounting-automation-gap/README.md",
+  "githubReadmeUrl": "https://github.com/bhumanai/enrichanything-ops-automation-gaps/blob/main/reports/accounting-automation-gap/README.md",
+  "trackedDatasetUrl": "https://www.enrichanything.com/datasets/reports/accounting-automation-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-accounting-automation-gap-dataset",
+  "trackedSnapshotUrl": "https://www.enrichanything.com/snapshots/reports/accounting-automation-gap/2026-03-22-5b9da83e32?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-accounting-automation-gap-snapshot",
+  "trackedSiteUrl": "https://www.enrichanything.com/reports/accounting-automation-gap?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-accounting-automation-gap",
+  "trackedMarketUrl": "https://www.enrichanything.com/markets/accounting-firms-hiring-bookkeepers-no-automation?utm_source=github&utm_medium=public_repo&utm_campaign=enrichanything-ops-automation-gaps&utm_content=report-accounting-automation-gap-market"
 }
